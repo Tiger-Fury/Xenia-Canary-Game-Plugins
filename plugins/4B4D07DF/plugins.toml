@@ -1,0 +1,12 @@
+title_name = "Dead Island"
+title_id = "4B4D07DF" # AB-1234
+hash = "E1084E471E88C070" # Module the hash applies to (i.e. default.xex)
+
+
+[[plugin]]
+    name = "Loader"
+    file = "Trainer.xex" # plugin.xex must be in the same directory as plugins.toml
+    hash = "E1084E471E88C070" # Module the hash applies to (i.e. default.xex)
+    desc = "Loads Trainer Into Xenia"
+    is_enabled = true
+	
