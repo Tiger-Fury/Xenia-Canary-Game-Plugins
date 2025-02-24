@@ -1,4 +1,4 @@
-<h1 align="center">Viper Re-ignited Multi-Game Trainer</h1>
+<h1 align="center">Viper Re-ignited Multi-Game Xbox 360 Trainer</h1>
 
 Hello this is a my revamped Xbox 360 (RGH/Jtag) "Viper" Multi-Game Trainer which i ended suppport for in 2015, 10 years on and now we have the greatness which is xenia. 
 
