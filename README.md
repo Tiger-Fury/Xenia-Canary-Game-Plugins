@@ -5,7 +5,7 @@ Hello this is a my revamped Xbox 360 (RGH/Jtag) "Viper" Multi-Game Trainer which
 I have started developing this again "Viper Re-ignited" this is to support not only xenia emulator but also an RGH/Jtag.
 ## Update
 
-I have been told by several people that sometimes the Hashes don't match there games so going forward, I will only be proving a template for the plugin.toml file that you need to edit in Notepad and add your own hash
+I have been told by several people that sometimes the Hashes don't match there games so going forward, I will only be providing a template for the plugin.toml file that you need to edit in Notepad and add your own hash
 
 ## RGH/Jtag
 
@@ -16,6 +16,8 @@ Currently I'm providing patches for the games and versions i use, you may have t
 Xenia Handles plugin patches this way so until Global Plugins are added, then the trainer.xex must have a plugins.toml file beside it per game and/or per title update basis. These Patches must be in its own title id folder within the main plugin so the structure currently is like this 
 
 * Xenia/plugins/Yourgametitleid/plugins.toml
+
+Change this ---------- ^ to your title id (if supported)
 
 and the Trainer.xex must also be in the same folder as the plugins.toml file.
 
