@@ -1,7 +1,7 @@
 title_name = "Game Name" # Example Tenchu Z
 title_id = "12345678" # Your game title id for instance Tenchu Z's Title ID is 465307D7
 hash = "PutYourHashHere" # Module the hash applies to (i.e. default.xex).
-# An Easy way to find your Hash is open your game in xenia, once launched close xenia and open your xenia.log in notepad and search for "Module Hash" 
+# An Easy way to find your Hash is open your game in xenia, once launched close xenia and open your xenia.log in notepad and search for "Module Hash" paste the code into both fields that say hash in this file
 
 
 [[plugin]]
