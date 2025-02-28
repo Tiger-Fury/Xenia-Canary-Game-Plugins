@@ -1,6 +1,6 @@
 title_name = "Banjo Kazooie: Nuts and Bolts"
 title_id = "4D5307ED" # AB-1234
-hash = "13D07541617C6257" # Module the hash applies to (i.e. default.xex)
+hash = "13D07541617C6257" # Module the hash applies to (i.e. default.xex).
 
 
 [[plugin]]
