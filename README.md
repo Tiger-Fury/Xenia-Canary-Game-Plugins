@@ -3,6 +3,9 @@
 Hello this is a my revamped Xbox 360 (RGH/Jtag) "Viper" Multi-Game Trainer which i ended suppport for in 2015, 10 years on and now we have the greatness which is xenia. 
 
 I have started developing this again "Viper Re-ignited" this is to support not only xenia emulator but also an RGH/Jtag.
+## Update
+
+I have been told by several people that sometimes the Hashes don't match there games so going forward, I will only be proving a template for the plugin.toml file that you need to edit in Notepad and add your own hash
 
 ## RGH/Jtag
 
