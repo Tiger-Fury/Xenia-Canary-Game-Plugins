@@ -31,7 +31,7 @@ My Trainers scan and adjust there own code which eliminates the need for you to 
 the only requirements is having  
 
 * Matching Title ID (rare but a few games have different title id's like gears 2) [Supported Game List](https://github.com/Tiger-Fury/Xenia-Canary-Game-Plugins/blob/main/Supported%20Games.txt)
-* Xenia Canary [build](https://github.com/xenia-canary/xenia-canary/releases) from 1st January 2025 onwards (Supports Passcode UI)
+* Xenia Canary [build](https://github.com/xenia-canary/xenia-canary-releases/releases) from 1st January 2025 onwards (Supports Passcode UI)
 * Your matching hash code (Found in xenia log after launching your game and closing xenia look for "Module Hash:" in the log)
 
 currently my trainers use Passcode ui but i'm likely going to change this to keyboard ui instead to make it easier for users of xenia.
